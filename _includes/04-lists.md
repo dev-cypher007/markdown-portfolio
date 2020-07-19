@@ -1,1 +1,12 @@
-Replace this with a list of your favorite things.
+1. FrontEnd Technologies
+    - html
+    - css
+    - javascript
+    - Bootstrap
+    -jquery
+2. Backend Technologies
+    - Node.js
+    - MongoDB
+    - Express
+    - Passport.js
+    
