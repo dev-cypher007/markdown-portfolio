@@ -1,0 +1,1 @@
+**Global attributes** may be specified on all HTML elements, *even those not specified in the standard*. This means that any non-standard elements must still permit these attributes, even though those elements make the document HTML5-noncompliant.
